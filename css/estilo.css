@@ -1,0 +1,26 @@
+*{
+    font-family: sans-serif;
+}
+
+.rodapebaixo{
+    border-top: 0.3rem solid black;
+    background-color: lightskyblue;
+}
+.rodapecima{
+    border-bottom: 0.3rem solid black;
+    background-color: lightblue;
+}
+.corpo{
+    background-color: aliceblue;
+}
+
+.botao{
+    border: 0.2rem;
+    border-radius: 15px;
+    background-color: cadetblue;
+    padding: 12px;
+    color: aliceblue;
+}
+.botao:hover{
+    background-color: darkslategrey;
+}
